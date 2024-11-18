@@ -1,0 +1,11 @@
+div{
+    border: 10px solid salmon;
+    margin-bottom: 10px;
+    padding: 20px;
+    text-align: justify;
+    box-shadow: 10px 10px 20px blue;
+
+}
+p{
+    background-color: violet;
+}
